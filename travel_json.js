@@ -5,6 +5,7 @@ const services = [
     title: "COMPLETE VIP FASTTRACK SERVICE ",
     sub_title: "EXCLUDE VOA",
     price: 500000,
+    images: ["image-1.jpeg"],
     has_transfer: true,
     detail: {
       overview: "string",
